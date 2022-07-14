@@ -6,14 +6,10 @@ My name is Brittany (she/her). I'm a software engineer in Vancouver, Washington,
 
 ## Work
 
-![A cat typing something important](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
 - 🔭 I’m currently working on GitHub Actions
 - 🌱 I’m currently learning Ruby on Rails, Go, and React
 
 ## Learning
-
-![A cat reading](https://media.giphy.com/media/AElZM8kDYlxHGGQ6kB/giphy.gif)
 
 - :headphones: I’m currently listening to Soft Skills Engineering, Ted Health, and The Daily
 - :book: I’m currently reading [Designing Data-Intensive Applications](https://www.amazon.com/dp/1449373321?psc=1&ref=ppx_yo2ov_dt_b_product_details)
