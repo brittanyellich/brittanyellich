@@ -8,7 +8,6 @@ I'm a software engineer with experience at consulting firms, startups, and big t
 
 * 🌍  I'm based in Portland, Oregon, USA
 * 🖥️  See my website at [brittanyellich.com](http://brittanyellich.com)
-* ✉️  You can contact me at [brittany.ellich@outlook.com](mailto:brittany.ellich@outlook.com)
 * 🚀  I'm currently working on [GitHub Actions](http://github.com)
 * 🧠  I'm learning Golang and Ruby on Rails
 * :books: I'm currently reading Designing Data Intensive Applications
