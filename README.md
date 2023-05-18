@@ -4,11 +4,11 @@
 
 I'm a software engineer with experience at consulting firms, startups, and big tech companies. I'm a full-stack developer with an interest in front-end development and accessibility.
 
-* 🌍  I'm based in Portland, Oregon, USA
-* 🖥️  See my website at [brittanyellich.com](http://brittanyellich.com)
-* 🚀  I'm currently working on [GitHub Actions](https://github.com/features/actions)
-* 🧠  I'm learning Golang and Ruby on Rails
-* :books: I'm currently reading Designing Data Intensive Applications
+* I'm based in Portland, Oregon, USA
+* See [my website at brittanyellich.com](http://brittanyellich.com)
+* I'm currently working on [GitHub Actions](https://github.com/features/actions)
+* I'm learning Golang and Ruby on Rails
+* I'm currently reading Designing Data Intensive Applications
 
 ### Skills
 
