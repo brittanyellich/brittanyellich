@@ -8,7 +8,7 @@ I'm a software engineer with experience at consulting firms, startups, and big t
 * See [my website at brittanyellich.com](https://brittanyellich.com)
 * Check out my newsletter: [The Balanced Engineer](https://balancedengineer.com)
 * I'm currently working on this website, GitHub!
-* I'm learning and contributing it to my [Body of Knowledge](https://github.com/brittanyellich/body-of-knowledge)
+* I'm learning and contributing it to my [Notes](https://brittanyellich.com/notes)
 
 ### Skills
 
